@@ -10,7 +10,7 @@ Usage
 To create a new LXC container on Proxmox and setup Portainer to run inside of it, run the following in a SSH connection or the Proxmox web shell.
 
 ```
-bash -c "$(wget -qLO - https://github.com/chpego/proxmox_unifi_network_controler_lxc/raw/main/create_container.sh)"
+bash -c "$(wget -qLO - https://github.com/frederickjh/proxmox_unifi_network_controler_lxc/raw/main/create_container.sh)"
 ```
 
 ## Console
